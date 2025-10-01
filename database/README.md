@@ -1,3 +1,5 @@
+
+
 # FantasyID Database
 
 This database stores all the data needed for the **FantasyID** Sports Platform.  
@@ -106,3 +108,48 @@ The database contains 9 main tables:
 
 - users → payments:
 - Each user can have many payments/subscriptions.
+
+
+
+
+## Queries File (`fantasyid_queries.sql`)
+
+Alongside the schema, there is a **fantasyid_queries.sql file** that contains the `SELECT` statements used by the UI and backend.  
+This file is organized by feature/screen:
+
+- **Dashboard**  
+  - Current matchups (today/this week)  
+  - Quick standings snapshot  
+
+- **Live Scores**  
+  - List of live games  
+  - Latest score per game  
+
+- **League Page**  
+  - Standings table  
+  - Upcoming games (next 7 days)  
+  - Recent results  
+
+- **Game Details Page**  
+  - Game header info  
+  - Score timeline  
+
+- **Search**  
+  - Search teams by name/city  
+  - Search games by team name + date range  
+
+- **Admin**  
+  - Recent users  
+  - Payments list  
+  - Payments summary  
+
+> These queries use parameters like `league_id`, `season_id`, `status`, `from`/`to` date ranges, and `limit`/`offset`. They are written to align exactly with what the UI shows.
+
+---
+
+## Usage Notes
+
+1. **Run the schema script first** (`fantasyid_schema.sql`) to create tables.  
+2. (Optional) **Run the seed script** (`fantasyid_seed.sql`) to add demo data.  
+3. **Use the queries** (`fantasyid_queries.sql`) as reference inside the backend API. Each API endpoint should map to one of these queries.  
+4. When new screens are added to the UI, extend the queries file with new `SELECT` statements as needed.  

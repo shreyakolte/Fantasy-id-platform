@@ -104,3 +104,4 @@ CREATE TABLE payments (
 );
 
 SHOW TABLES;
+

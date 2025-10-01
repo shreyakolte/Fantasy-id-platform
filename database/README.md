@@ -1,6 +1,6 @@
 
 
-# FantasyID Database File (fantasyid_schema.sql)
+## FantasyID Database File (fantasyid_schema.sql)
 
 This database stores all the data needed for the **FantasyID** Sports Platform.  
 It is built in **MySQL** and designed to support multiple sports, leagues, seasons, teams, games, live scores, standings, user accounts and payments.

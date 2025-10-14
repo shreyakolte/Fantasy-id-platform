@@ -1,0 +1,381 @@
+Game_Date,Sport,League_ID,Game_Status,Home_Team,Away_Team,Home_Score_Final,Away_Score_Final,Game_ID
+2023-08-11 12:00:00,Football,39,Match Finished,Burnley,Manchester City,0,3,1035037
+2023-08-12 04:30:00,Football,39,Match Finished,Arsenal,Nottingham Forest,2,1,1035038
+2023-08-12 07:00:00,Football,39,Match Finished,Bournemouth,West Ham,1,1,1035039
+2023-08-12 07:00:00,Football,39,Match Finished,Everton,Fulham,0,1,1035041
+2023-08-12 07:00:00,Football,39,Match Finished,Brighton,Luton,4,1,1035040
+2023-08-12 07:00:00,Football,39,Match Finished,Sheffield Utd,Crystal Palace,0,1,1035042
+2023-08-12 09:30:00,Football,39,Match Finished,Newcastle,Aston Villa,5,1,1035043
+2023-08-13 06:00:00,Football,39,Match Finished,Brentford,Tottenham,2,2,1035044
+2023-08-13 08:30:00,Football,39,Match Finished,Chelsea,Liverpool,1,1,1035045
+2023-08-14 12:00:00,Football,39,Match Finished,Manchester United,Wolves,1,0,1035046
+2023-08-18 11:45:00,Football,39,Match Finished,Nottingham Forest,Sheffield Utd,2,1,1035053
+2023-08-19 07:00:00,Football,39,Match Finished,Fulham,Brentford,0,3,1035049
+2023-08-19 07:00:00,Football,39,Match Finished,Wolves,Brighton,1,4,1035056
+2023-08-19 07:00:00,Football,39,Match Finished,Liverpool,Bournemouth,3,1,1035050
+2023-08-19 09:30:00,Football,39,Match Finished,Tottenham,Manchester United,2,0,1035054
+2023-08-19 12:00:00,Football,39,Match Finished,Manchester City,Newcastle,1,0,1035052
+2023-08-20 06:00:00,Football,39,Match Finished,Aston Villa,Everton,4,0,1035047
+2023-08-20 08:30:00,Football,39,Match Finished,West Ham,Chelsea,3,1,1035055
+2023-08-21 12:00:00,Football,39,Match Finished,Crystal Palace,Arsenal,0,1,1035048
+2023-08-25 12:00:00,Football,39,Match Finished,Chelsea,Luton,3,0,1035062
+2023-08-26 04:30:00,Football,39,Match Finished,Bournemouth,Tottenham,0,2,1035057
+2023-08-26 07:00:00,Football,39,Match Finished,Manchester United,Nottingham Forest,3,2,1035064
+2023-08-26 07:00:00,Football,39,Match Finished,Arsenal,Fulham,2,2,1035058
+2023-08-26 07:00:00,Football,39,Match Finished,Everton,Wolves,0,1,1035063
+2023-08-26 07:00:00,Football,39,Match Finished,Brentford,Crystal Palace,1,1,1035059
+2023-08-26 09:30:00,Football,39,Match Finished,Brighton,West Ham,1,3,1035060
+2023-08-27 06:00:00,Football,39,Match Finished,Burnley,Aston Villa,1,3,1035061
+2023-08-27 06:00:00,Football,39,Match Finished,Sheffield Utd,Manchester City,1,2,1035066
+2023-08-27 08:30:00,Football,39,Match Finished,Newcastle,Liverpool,1,2,1035065
+2023-09-01 12:00:00,Football,39,Match Finished,Luton,West Ham,1,2,1035074
+2023-09-02 04:30:00,Football,39,Match Finished,Sheffield Utd,Everton,2,2,1035076
+2023-09-02 07:00:00,Football,39,Match Finished,Burnley,Tottenham,2,5,1035070
+2023-09-02 07:00:00,Football,39,Match Finished,Chelsea,Nottingham Forest,0,1,1035071
+2023-09-02 07:00:00,Football,39,Match Finished,Manchester City,Fulham,5,1,1035075
+2023-09-02 07:00:00,Football,39,Match Finished,Brentford,Bournemouth,2,2,1035068
+2023-09-02 09:30:00,Football,39,Match Finished,Brighton,Newcastle,3,1,1035069
+2023-09-03 06:00:00,Football,39,Match Finished,Liverpool,Aston Villa,3,0,1035073
+2023-09-03 06:00:00,Football,39,Match Finished,Crystal Palace,Wolves,3,2,1035072
+2023-09-03 08:30:00,Football,39,Match Finished,Arsenal,Manchester United,3,1,1035067
+2023-09-16 04:30:00,Football,39,Match Finished,Wolves,Liverpool,1,3,1035086
+2023-09-16 07:00:00,Football,39,Match Finished,Manchester United,Brighton,1,3,1035081
+2023-09-16 07:00:00,Football,39,Match Finished,Fulham,Luton,1,0,1035080
+2023-09-16 07:00:00,Football,39,Match Finished,Tottenham,Sheffield Utd,2,1,1035084
+2023-09-16 07:00:00,Football,39,Match Finished,West Ham,Manchester City,1,3,1035085
+2023-09-16 07:00:00,Football,39,Match Finished,Aston Villa,Crystal Palace,3,1,1035078
+2023-09-16 09:30:00,Football,39,Match Finished,Newcastle,Brentford,1,0,1035082
+2023-09-17 06:00:00,Football,39,Match Finished,Bournemouth,Chelsea,0,0,1035077
+2023-09-17 08:30:00,Football,39,Match Finished,Everton,Arsenal,0,1,1035079
+2023-09-18 11:45:00,Football,39,Match Finished,Nottingham Forest,Burnley,1,1,1035083
+2023-09-23 07:00:00,Football,39,Match Finished,Manchester City,Nottingham Forest,2,0,1035095
+2023-09-23 07:00:00,Football,39,Match Finished,Crystal Palace,Fulham,0,0,1035092
+2023-09-23 07:00:00,Football,39,Match Finished,Luton,Wolves,1,1,1035094
+2023-09-23 09:30:00,Football,39,Match Finished,Brentford,Everton,1,3,1035088
+2023-09-23 12:00:00,Football,39,Match Finished,Burnley,Manchester United,0,1,1035090
+2023-09-24 06:00:00,Football,39,Match Finished,Liverpool,West Ham,3,1,1035093
+2023-09-24 06:00:00,Football,39,Match Finished,Arsenal,Tottenham,2,2,1035087
+2023-09-24 06:00:00,Football,39,Match Finished,Chelsea,Aston Villa,0,1,1035091
+2023-09-24 06:00:00,Football,39,Match Finished,Brighton,Bournemouth,3,1,1035089
+2023-09-24 08:30:00,Football,39,Match Finished,Sheffield Utd,Newcastle,0,8,1035096
+2023-09-30 04:30:00,Football,39,Match Finished,Aston Villa,Brighton,6,1,1035098
+2023-09-30 07:00:00,Football,39,Match Finished,Manchester United,Crystal Palace,0,1,1035101
+2023-09-30 07:00:00,Football,39,Match Finished,Newcastle,Burnley,2,0,1035102
+2023-09-30 07:00:00,Football,39,Match Finished,Bournemouth,Arsenal,0,4,1035097
+2023-09-30 07:00:00,Football,39,Match Finished,Wolves,Manchester City,2,1,1035106
+2023-09-30 07:00:00,Football,39,Match Finished,Everton,Luton,1,2,1035099
+2023-09-30 07:00:00,Football,39,Match Finished,West Ham,Sheffield Utd,2,0,1035105
+2023-09-30 09:30:00,Football,39,Match Finished,Tottenham,Liverpool,2,1,1035104
+2023-10-01 06:00:00,Football,39,Match Finished,Nottingham Forest,Brentford,1,1,1035103
+2023-10-02 12:00:00,Football,39,Match Finished,Fulham,Chelsea,0,2,1035100
+2023-10-03 11:30:00,Football,39,Match Finished,Luton,Burnley,1,2,1035051
+2023-10-07 04:30:00,Football,39,Match Finished,Luton,Tottenham,0,1,1035113
+2023-10-07 07:00:00,Football,39,Match Finished,Manchester United,Brentford,2,1,1035114
+2023-10-07 07:00:00,Football,39,Match Finished,Fulham,Sheffield Utd,3,1,1035112
+2023-10-07 07:00:00,Football,39,Match Finished,Burnley,Chelsea,1,4,1035109
+2023-10-07 07:00:00,Football,39,Match Finished,Everton,Bournemouth,3,0,1035111
+2023-10-07 09:30:00,Football,39,Match Finished,Crystal Palace,Nottingham Forest,0,0,1035110
+2023-10-08 06:00:00,Football,39,Match Finished,Wolves,Aston Villa,1,1,1035116
+2023-10-08 06:00:00,Football,39,Match Finished,West Ham,Newcastle,2,2,1035115
+2023-10-08 06:00:00,Football,39,Match Finished,Brighton,Liverpool,2,2,1035108
+2023-10-08 08:30:00,Football,39,Match Finished,Arsenal,Manchester City,1,0,1035107
+2023-10-21 04:30:00,Football,39,Match Finished,Liverpool,Everton,2,0,1035121
+2023-10-21 07:00:00,Football,39,Match Finished,Newcastle,Crystal Palace,4,0,1035123
+2023-10-21 07:00:00,Football,39,Match Finished,Bournemouth,Wolves,1,2,1035117
+2023-10-21 07:00:00,Football,39,Match Finished,Manchester City,Brighton,2,1,1035122
+2023-10-21 07:00:00,Football,39,Match Finished,Brentford,Burnley,3,0,1035119
+2023-10-21 07:00:00,Football,39,Match Finished,Nottingham Forest,Luton,2,2,1035124
+2023-10-21 09:30:00,Football,39,Match Finished,Chelsea,Arsenal,2,2,1035120
+2023-10-21 12:00:00,Football,39,Match Finished,Sheffield Utd,Manchester United,1,2,1035125
+2023-10-22 08:30:00,Football,39,Match Finished,Aston Villa,West Ham,4,1,1035118
+2023-10-23 12:00:00,Football,39,Match Finished,Tottenham,Fulham,2,0,1035126
+2023-10-27 12:00:00,Football,39,Match Finished,Crystal Palace,Tottenham,1,2,1035132
+2023-10-28 04:30:00,Football,39,Match Finished,Chelsea,Brentford,0,2,1035131
+2023-10-28 07:00:00,Football,39,Match Finished,Bournemouth,Burnley,2,1,1035127
+2023-10-28 07:00:00,Football,39,Match Finished,Arsenal,Sheffield Utd,5,0,1035128
+2023-10-28 09:30:00,Football,39,Match Finished,Wolves,Newcastle,2,2,1035136
+2023-10-29 06:00:00,Football,39,Match Finished,West Ham,Everton,0,1,1035135
+2023-10-29 07:00:00,Football,39,Match Finished,Liverpool,Nottingham Forest,3,0,1035133
+2023-10-29 07:00:00,Football,39,Match Finished,Brighton,Fulham,1,1,1035130
+2023-10-29 07:00:00,Football,39,Match Finished,Aston Villa,Luton,3,1,1035129
+2023-10-29 08:30:00,Football,39,Match Finished,Manchester United,Manchester City,0,3,1035134
+2023-11-04 05:30:00,Football,39,Match Finished,Fulham,Manchester United,0,1,1035140
+2023-11-04 08:00:00,Football,39,Match Finished,Burnley,Crystal Palace,0,2,1035138
+2023-11-04 08:00:00,Football,39,Match Finished,Everton,Brighton,1,1,1035139
+2023-11-04 08:00:00,Football,39,Match Finished,Manchester City,Bournemouth,6,1,1035142
+2023-11-04 08:00:00,Football,39,Match Finished,Brentford,West Ham,3,2,1035137
+2023-11-04 08:00:00,Football,39,Match Finished,Sheffield Utd,Wolves,2,1,1035145
+2023-11-04 10:30:00,Football,39,Match Finished,Newcastle,Arsenal,1,0,1035143
+2023-11-05 07:00:00,Football,39,Match Finished,Nottingham Forest,Aston Villa,2,0,1035144
+2023-11-05 09:30:00,Football,39,Match Finished,Luton,Liverpool,1,1,1035141
+2023-11-06 13:00:00,Football,39,Match Finished,Tottenham,Chelsea,1,4,1035146
+2023-11-11 05:30:00,Football,39,Match Finished,Wolves,Tottenham,2,1,1035156
+2023-11-11 08:00:00,Football,39,Match Finished,Manchester United,Luton,1,0,1035154
+2023-11-11 08:00:00,Football,39,Match Finished,Arsenal,Burnley,3,1,1035148
+2023-11-11 08:00:00,Football,39,Match Finished,Crystal Palace,Everton,2,3,1035152
+2023-11-11 10:30:00,Football,39,Match Finished,Bournemouth,Newcastle,2,0,1035147
+2023-11-12 07:00:00,Football,39,Match Finished,Liverpool,Brentford,3,0,1035153
+2023-11-12 07:00:00,Football,39,Match Finished,West Ham,Nottingham Forest,3,2,1035155
+2023-11-12 07:00:00,Football,39,Match Finished,Brighton,Sheffield Utd,1,1,1035150
+2023-11-12 07:00:00,Football,39,Match Finished,Aston Villa,Fulham,3,1,1035149
+2023-11-12 09:30:00,Football,39,Match Finished,Chelsea,Manchester City,4,4,1035151
+2023-11-25 05:30:00,Football,39,Match Finished,Manchester City,Liverpool,1,1,1035299
+2023-11-25 08:00:00,Football,39,Match Finished,Newcastle,Chelsea,4,1,1035300
+2023-11-25 08:00:00,Football,39,Match Finished,Burnley,West Ham,1,2,1035295
+2023-11-25 08:00:00,Football,39,Match Finished,Sheffield Utd,Bournemouth,1,3,1035302
+2023-11-25 08:00:00,Football,39,Match Finished,Nottingham Forest,Brighton,2,3,1035301
+2023-11-25 08:00:00,Football,39,Match Finished,Luton,Crystal Palace,2,1,1035298
+2023-11-25 10:30:00,Football,39,Match Finished,Brentford,Arsenal,0,1,1035294
+2023-11-26 07:00:00,Football,39,Match Finished,Tottenham,Aston Villa,1,2,1035303
+2023-11-26 09:30:00,Football,39,Match Finished,Everton,Manchester United,0,3,1035296
+2023-11-27 13:00:00,Football,39,Match Finished,Fulham,Wolves,3,2,1035297
+2023-12-02 08:00:00,Football,39,Match Finished,Arsenal,Wolves,2,1,1035305
+2023-12-02 08:00:00,Football,39,Match Finished,Burnley,Sheffield Utd,5,0,1035307
+2023-12-02 08:00:00,Football,39,Match Finished,Brentford,Luton,3,1,1035306
+2023-12-02 10:30:00,Football,39,Match Finished,Nottingham Forest,Everton,0,1,1035312
+2023-12-02 13:00:00,Football,39,Match Finished,Newcastle,Manchester United,1,0,1035311
+2023-12-03 07:00:00,Football,39,Match Finished,Bournemouth,Aston Villa,2,2,1035304
+2023-12-03 07:00:00,Football,39,Match Finished,Liverpool,Fulham,4,3,1035309
+2023-12-03 07:00:00,Football,39,Match Finished,West Ham,Crystal Palace,1,1,1035313
+2023-12-03 07:00:00,Football,39,Match Finished,Chelsea,Brighton,3,2,1035308
+2023-12-03 09:30:00,Football,39,Match Finished,Manchester City,Tottenham,3,3,1035310
+2023-12-05 12:30:00,Football,39,Match Finished,Wolves,Burnley,1,0,1035321
+2023-12-05 13:15:00,Football,39,Match Finished,Luton,Arsenal,3,4,1035318
+2023-12-06 12:30:00,Football,39,Match Finished,Fulham,Nottingham Forest,5,0,1035317
+2023-12-06 12:30:00,Football,39,Match Finished,Brighton,Brentford,2,1,1035315
+2023-12-06 12:30:00,Football,39,Match Finished,Crystal Palace,Bournemouth,0,2,1035322
+2023-12-06 12:30:00,Football,39,Match Finished,Sheffield Utd,Liverpool,0,2,1035319
+2023-12-06 13:15:00,Football,39,Match Finished,Manchester United,Chelsea,2,1,1035323
+2023-12-06 13:15:00,Football,39,Match Finished,Aston Villa,Manchester City,1,0,1035314
+2023-12-07 12:30:00,Football,39,Match Finished,Everton,Newcastle,3,0,1035316
+2023-12-07 13:15:00,Football,39,Match Finished,Tottenham,West Ham,1,2,1035320
+2023-12-09 05:30:00,Football,39,Match Finished,Crystal Palace,Liverpool,1,2,1035326
+2023-12-09 08:00:00,Football,39,Match Finished,Manchester United,Bournemouth,0,3,1035330
+2023-12-09 08:00:00,Football,39,Match Finished,Wolves,Nottingham Forest,1,1,1035333
+2023-12-09 08:00:00,Football,39,Match Finished,Brighton,Burnley,1,1,1035325
+2023-12-09 08:00:00,Football,39,Match Finished,Sheffield Utd,Brentford,1,0,1035331
+2023-12-09 10:30:00,Football,39,Match Finished,Aston Villa,Arsenal,1,0,1035324
+2023-12-10 07:00:00,Football,39,Match Finished,Fulham,West Ham,5,0,1035328
+2023-12-10 07:00:00,Football,39,Match Finished,Everton,Chelsea,2,0,1035327
+2023-12-10 07:00:00,Football,39,Match Finished,Luton,Manchester City,1,2,1035329
+2023-12-10 09:30:00,Football,39,Match Finished,Tottenham,Newcastle,4,1,1035332
+2023-12-15 13:00:00,Football,39,Match Finished,Nottingham Forest,Tottenham,0,2,1035342
+2023-12-16 08:00:00,Football,39,Match Finished,Newcastle,Fulham,3,0,1035341
+2023-12-16 08:00:00,Football,39,Match Finished,Chelsea,Sheffield Utd,2,0,1035338
+2023-12-16 08:00:00,Football,39,Match Finished,Manchester City,Crystal Palace,2,2,1035340
+2023-12-16 10:30:00,Football,39,Match Finished,Burnley,Everton,0,2,1035337
+2023-12-17 07:00:00,Football,39,Match Finished,Arsenal,Brighton,2,0,1035335
+2023-12-17 07:00:00,Football,39,Match Finished,West Ham,Wolves,3,0,1035343
+2023-12-17 07:00:00,Football,39,Match Finished,Brentford,Aston Villa,1,2,1035336
+2023-12-17 09:30:00,Football,39,Match Finished,Liverpool,Manchester United,0,0,1035339
+2023-12-21 13:00:00,Football,39,Match Finished,Crystal Palace,Brighton,1,1,1035345
+2023-12-22 13:00:00,Football,39,Match Finished,Aston Villa,Sheffield Utd,1,1,1035344
+2023-12-23 05:30:00,Football,39,Match Finished,West Ham,Manchester United,2,0,1035352
+2023-12-23 08:00:00,Football,39,Match Finished,Fulham,Burnley,0,2,1035346
+2023-12-23 08:00:00,Football,39,Match Finished,Tottenham,Everton,2,1,1035351
+2023-12-23 08:00:00,Football,39,Match Finished,Nottingham Forest,Bournemouth,2,3,1035350
+2023-12-23 08:00:00,Football,39,Match Finished,Luton,Newcastle,1,0,1035348
+2023-12-23 10:30:00,Football,39,Match Finished,Liverpool,Arsenal,1,1,1035347
+2023-12-24 06:00:00,Football,39,Match Finished,Wolves,Chelsea,2,1,1035353
+2023-12-26 05:30:00,Football,39,Match Finished,Newcastle,Nottingham Forest,1,3,1035362
+2023-12-26 08:00:00,Football,39,Match Finished,Bournemouth,Fulham,3,0,1035354
+2023-12-26 08:00:00,Football,39,Match Finished,Sheffield Utd,Luton,2,3,1035363
+2023-12-26 10:30:00,Football,39,Match Finished,Burnley,Liverpool,0,2,1035358
+2023-12-26 13:00:00,Football,39,Match Finished,Manchester United,Aston Villa,3,2,1035361
+2023-12-27 12:30:00,Football,39,Match Finished,Chelsea,Crystal Palace,2,1,1035359
+2023-12-27 12:30:00,Football,39,Match Finished,Brentford,Wolves,1,4,1035356
+2023-12-27 13:15:00,Football,39,Match Finished,Everton,Manchester City,1,3,1035360
+2023-12-28 12:30:00,Football,39,Match Finished,Brighton,Tottenham,4,2,1035357
+2023-12-28 13:15:00,Football,39,Match Finished,Arsenal,West Ham,0,2,1035355
+2023-12-30 05:30:00,Football,39,Match Finished,Luton,Chelsea,2,3,1035368
+2023-12-30 08:00:00,Football,39,Match Finished,Wolves,Everton,3,0,1035373
+2023-12-30 08:00:00,Football,39,Match Finished,Manchester City,Sheffield Utd,2,0,1035369
+2023-12-30 08:00:00,Football,39,Match Finished,Crystal Palace,Brentford,3,1,1035365
+2023-12-30 08:00:00,Football,39,Match Finished,Aston Villa,Burnley,3,2,1035364
+2023-12-30 10:30:00,Football,39,Match Finished,Nottingham Forest,Manchester United,2,1,1035370
+2023-12-31 07:00:00,Football,39,Match Finished,Fulham,Arsenal,2,1,1035366
+2023-12-31 07:00:00,Football,39,Match Finished,Tottenham,Bournemouth,3,1,1035371
+2024-01-01 13:00:00,Football,39,Match Finished,Liverpool,Newcastle,4,2,1035367
+2024-01-02 12:30:00,Football,39,Match Finished,West Ham,Brighton,0,0,1035372
+2024-01-12 12:45:00,Football,39,Match Finished,Burnley,Luton,1,1,1035378
+2024-01-13 05:30:00,Football,39,Match Finished,Chelsea,Fulham,1,0,1035379
+2024-01-13 10:30:00,Football,39,Match Finished,Newcastle,Manchester City,2,3,1035382
+2024-01-14 07:00:00,Football,39,Match Finished,Everton,Aston Villa,0,0,1035380
+2024-01-14 09:30:00,Football,39,Match Finished,Manchester United,Tottenham,2,2,1035381
+2024-01-20 05:30:00,Football,39,Match Finished,Arsenal,Crystal Palace,5,0,1035375
+2024-01-20 10:30:00,Football,39,Match Finished,Brentford,Nottingham Forest,3,2,1035376
+2024-01-21 07:00:00,Football,39,Match Finished,Sheffield Utd,West Ham,2,2,1035383
+2024-01-21 09:30:00,Football,39,Match Finished,Bournemouth,Liverpool,0,4,1035374
+2024-01-22 12:45:00,Football,39,Match Finished,Brighton,Wolves,0,0,1035377
+2024-01-30 12:30:00,Football,39,Match Finished,Nottingham Forest,Arsenal,1,2,1035387
+2024-01-30 12:45:00,Football,39,Match Finished,Fulham,Everton,0,0,1035385
+2024-01-30 12:45:00,Football,39,Match Finished,Luton,Brighton,4,0,1035386
+2024-01-30 13:00:00,Football,39,Match Finished,Crystal Palace,Sheffield Utd,3,2,1035391
+2024-01-30 13:15:00,Football,39,Match Finished,Aston Villa,Newcastle,1,3,1035384
+2024-01-31 12:30:00,Football,39,Match Finished,Tottenham,Brentford,3,2,1035388
+2024-01-31 12:30:00,Football,39,Match Finished,Manchester City,Burnley,3,1,1035393
+2024-01-31 13:15:00,Football,39,Match Finished,Liverpool,Chelsea,4,1,1035392
+2024-02-01 12:30:00,Football,39,Match Finished,West Ham,Bournemouth,1,1,1035389
+2024-02-01 13:15:00,Football,39,Match Finished,Wolves,Manchester United,3,4,1035390
+2024-02-03 05:30:00,Football,39,Match Finished,Everton,Tottenham,2,2,1035400
+2024-02-03 08:00:00,Football,39,Match Finished,Newcastle,Luton,4,4,1035402
+2024-02-03 08:00:00,Football,39,Match Finished,Burnley,Fulham,2,2,1035398
+2024-02-03 08:00:00,Football,39,Match Finished,Brighton,Crystal Palace,4,1,1035397
+2024-02-03 10:30:00,Football,39,Match Finished,Sheffield Utd,Aston Villa,0,5,1035403
+2024-02-04 07:00:00,Football,39,Match Finished,Manchester United,West Ham,3,0,1035401
+2024-02-04 07:00:00,Football,39,Match Finished,Bournemouth,Nottingham Forest,1,1,1035394
+2024-02-04 07:00:00,Football,39,Match Finished,Chelsea,Wolves,2,4,1035399
+2024-02-04 09:30:00,Football,39,Match Finished,Arsenal,Liverpool,3,1,1035395
+2024-02-05 13:00:00,Football,39,Match Finished,Brentford,Manchester City,1,3,1035396
+2024-02-10 05:30:00,Football,39,Match Finished,Manchester City,Everton,2,0,1035409
+2024-02-10 08:00:00,Football,39,Match Finished,Fulham,Bournemouth,3,1,1035406
+2024-02-10 08:00:00,Football,39,Match Finished,Wolves,Brentford,0,2,1035413
+2024-02-10 08:00:00,Football,39,Match Finished,Liverpool,Burnley,3,1,1035407
+2024-02-10 08:00:00,Football,39,Match Finished,Tottenham,Brighton,2,1,1035411
+2024-02-10 08:00:00,Football,39,Match Finished,Luton,Sheffield Utd,1,3,1035408
+2024-02-10 10:30:00,Football,39,Match Finished,Nottingham Forest,Newcastle,2,3,1035410
+2024-02-11 07:00:00,Football,39,Match Finished,West Ham,Arsenal,0,6,1035412
+2024-02-11 09:30:00,Football,39,Match Finished,Aston Villa,Manchester United,1,2,1035404
+2024-02-12 13:00:00,Football,39,Match Finished,Crystal Palace,Chelsea,1,3,1035405
+2024-02-17 05:30:00,Football,39,Match Finished,Brentford,Liverpool,1,4,1035414
+2024-02-17 08:00:00,Football,39,Match Finished,Newcastle,Bournemouth,2,2,1035420
+2024-02-17 08:00:00,Football,39,Match Finished,Fulham,Aston Villa,1,2,1035417
+2024-02-17 08:00:00,Football,39,Match Finished,Burnley,Arsenal,0,5,1035415
+2024-02-17 08:00:00,Football,39,Match Finished,Tottenham,Wolves,1,2,1035423
+2024-02-17 08:00:00,Football,39,Match Finished,Nottingham Forest,West Ham,2,0,1035421
+2024-02-17 10:30:00,Football,39,Match Finished,Manchester City,Chelsea,1,1,1035419
+2024-02-18 07:00:00,Football,39,Match Finished,Sheffield Utd,Brighton,0,5,1035422
+2024-02-18 09:30:00,Football,39,Match Finished,Luton,Manchester United,1,2,1035418
+2024-02-19 13:00:00,Football,39,Match Finished,Everton,Crystal Palace,1,1,1035416
+2024-02-20 12:30:00,Football,39,Match Finished,Manchester City,Brentford,1,0,1035349
+2024-02-21 12:30:00,Football,39,Match Finished,Liverpool,Luton,4,1,1035430
+2024-02-24 08:00:00,Football,39,Match Finished,Manchester United,Fulham,1,2,1035431
+2024-02-24 08:00:00,Football,39,Match Finished,Brighton,Everton,1,1,1035427
+2024-02-24 08:00:00,Football,39,Match Finished,Crystal Palace,Burnley,3,0,1035429
+2024-02-24 08:00:00,Football,39,Match Finished,Aston Villa,Nottingham Forest,4,2,1035426
+2024-02-24 10:30:00,Football,39,Match Finished,Bournemouth,Manchester City,0,1,1035424
+2024-02-24 13:00:00,Football,39,Match Finished,Arsenal,Newcastle,4,1,1035425
+2024-02-25 06:30:00,Football,39,Match Finished,Wolves,Sheffield Utd,1,0,1035433
+2024-02-26 13:00:00,Football,39,Match Finished,West Ham,Brentford,4,2,1035432
+2024-03-02 08:00:00,Football,39,Match Finished,Newcastle,Wolves,3,0,1035440
+2024-03-02 08:00:00,Football,39,Match Finished,Fulham,Brighton,3,0,1035437
+2024-03-02 08:00:00,Football,39,Match Finished,Everton,West Ham,1,3,1035436
+2024-03-02 08:00:00,Football,39,Match Finished,Tottenham,Crystal Palace,3,1,1035443
+2024-03-02 08:00:00,Football,39,Match Finished,Brentford,Chelsea,2,2,1035434
+2024-03-02 08:00:00,Football,39,Match Finished,Nottingham Forest,Liverpool,0,1,1035441
+2024-03-02 10:30:00,Football,39,Match Finished,Luton,Aston Villa,2,3,1035438
+2024-03-03 06:00:00,Football,39,Match Finished,Burnley,Bournemouth,0,2,1035435
+2024-03-03 08:30:00,Football,39,Match Finished,Manchester City,Manchester United,3,1,1035439
+2024-03-04 13:00:00,Football,39,Match Finished,Sheffield Utd,Arsenal,0,6,1035442
+2024-03-09 05:30:00,Football,39,Match Finished,Manchester United,Everton,2,0,1035451
+2024-03-09 08:00:00,Football,39,Match Finished,Bournemouth,Sheffield Utd,2,2,1035444
+2024-03-09 08:00:00,Football,39,Match Finished,Wolves,Fulham,2,1,1035453
+2024-03-09 08:00:00,Football,39,Match Finished,Crystal Palace,Luton,1,1,1035449
+2024-03-09 10:30:00,Football,39,Match Finished,Arsenal,Brentford,2,1,1035445
+2024-03-10 06:00:00,Football,39,Match Finished,Aston Villa,Tottenham,0,4,1035446
+2024-03-10 07:00:00,Football,39,Match Finished,West Ham,Burnley,2,2,1035452
+2024-03-10 07:00:00,Football,39,Match Finished,Brighton,Nottingham Forest,1,0,1035447
+2024-03-10 08:45:00,Football,39,Match Finished,Liverpool,Manchester City,1,1,1035450
+2024-03-11 13:00:00,Football,39,Match Finished,Chelsea,Newcastle,3,2,1035448
+2024-03-13 12:30:00,Football,39,Match Finished,Bournemouth,Luton,4,3,1035334
+2024-03-16 08:00:00,Football,39,Match Finished,Burnley,Brentford,2,1,1035456
+2024-03-16 08:00:00,Football,39,Match Finished,Luton,Nottingham Forest,1,1,1035460
+2024-03-16 10:30:00,Football,39,Match Finished,Fulham,Tottenham,3,0,1035459
+2024-03-17 07:00:00,Football,39,Match Finished,West Ham,Aston Villa,1,1,1035462
+2024-03-30 05:30:00,Football,39,Match Finished,Newcastle,West Ham,4,3,1035470
+2024-03-30 08:00:00,Football,39,Match Finished,Bournemouth,Everton,2,1,1035464
+2024-03-30 08:00:00,Football,39,Match Finished,Tottenham,Luton,2,1,1035473
+2024-03-30 08:00:00,Football,39,Match Finished,Chelsea,Burnley,2,2,1035467
+2024-03-30 08:00:00,Football,39,Match Finished,Sheffield Utd,Fulham,3,3,1035472
+2024-03-30 08:00:00,Football,39,Match Finished,Nottingham Forest,Crystal Palace,1,1,1035471
+2024-03-30 10:30:00,Football,39,Match Finished,Aston Villa,Wolves,2,0,1035465
+2024-03-30 13:00:00,Football,39,Match Finished,Brentford,Manchester United,1,1,1035466
+2024-03-31 06:00:00,Football,39,Match Finished,Liverpool,Brighton,2,1,1035468
+2024-03-31 08:30:00,Football,39,Match Finished,Manchester City,Arsenal,0,0,1035469
+2024-04-02 11:30:00,Football,39,Match Finished,Newcastle,Everton,1,1,1035481
+2024-04-02 11:30:00,Football,39,Match Finished,Nottingham Forest,Fulham,3,1,1035478
+2024-04-02 11:45:00,Football,39,Match Finished,Bournemouth,Crystal Palace,1,0,1035474
+2024-04-02 11:45:00,Football,39,Match Finished,Burnley,Wolves,1,1,1035477
+2024-04-02 12:15:00,Football,39,Match Finished,West Ham,Tottenham,1,1,1035479
+2024-04-03 11:30:00,Football,39,Match Finished,Arsenal,Luton,2,0,1035475
+2024-04-03 11:30:00,Football,39,Match Finished,Brentford,Brighton,0,0,1035476
+2024-04-03 12:15:00,Football,39,Match Finished,Manchester City,Aston Villa,4,1,1035483
+2024-04-04 11:30:00,Football,39,Match Finished,Liverpool,Sheffield Utd,3,1,1035482
+2024-04-04 12:15:00,Football,39,Match Finished,Chelsea,Manchester United,4,3,1035480
+2024-04-06 04:30:00,Football,39,Match Finished,Crystal Palace,Manchester City,2,4,1035486
+2024-04-06 07:00:00,Football,39,Match Finished,Fulham,Newcastle,0,1,1035488
+2024-04-06 07:00:00,Football,39,Match Finished,Wolves,West Ham,1,2,1035493
+2024-04-06 07:00:00,Football,39,Match Finished,Everton,Burnley,1,0,1035487
+2024-04-06 07:00:00,Football,39,Match Finished,Aston Villa,Brentford,3,3,1035484
+2024-04-06 07:00:00,Football,39,Match Finished,Luton,Bournemouth,2,1,1035489
+2024-04-06 09:30:00,Football,39,Match Finished,Brighton,Arsenal,0,3,1035485
+2024-04-07 07:30:00,Football,39,Match Finished,Manchester United,Liverpool,2,2,1035490
+2024-04-07 09:30:00,Football,39,Match Finished,Sheffield Utd,Chelsea,2,2,1035491
+2024-04-07 10:00:00,Football,39,Match Finished,Tottenham,Nottingham Forest,3,1,1035492
+2024-04-13 04:30:00,Football,39,Match Finished,Newcastle,Tottenham,4,0,1035501
+2024-04-13 07:00:00,Football,39,Match Finished,Burnley,Brighton,1,1,1035497
+2024-04-13 07:00:00,Football,39,Match Finished,Manchester City,Luton,5,1,1035500
+2024-04-13 07:00:00,Football,39,Match Finished,Brentford,Sheffield Utd,2,0,1035496
+2024-04-13 07:00:00,Football,39,Match Finished,Nottingham Forest,Wolves,2,2,1035502
+2024-04-13 09:30:00,Football,39,Match Finished,Bournemouth,Manchester United,2,2,1035494
+2024-04-14 06:00:00,Football,39,Match Finished,Liverpool,Crystal Palace,0,1,1035499
+2024-04-14 06:00:00,Football,39,Match Finished,West Ham,Fulham,0,2,1035503
+2024-04-14 08:30:00,Football,39,Match Finished,Arsenal,Aston Villa,0,2,1035495
+2024-04-15 12:00:00,Football,39,Match Finished,Chelsea,Everton,6,0,1035498
+2024-04-20 07:00:00,Football,39,Match Finished,Sheffield Utd,Burnley,1,4,1035511
+2024-04-20 07:00:00,Football,39,Match Finished,Luton,Brentford,1,5,1035509
+2024-04-20 11:30:00,Football,39,Match Finished,Wolves,Arsenal,0,2,1035513
+2024-04-21 05:30:00,Football,39,Match Finished,Everton,Nottingham Forest,2,0,1035507
+2024-04-21 07:00:00,Football,39,Match Finished,Crystal Palace,West Ham,5,2,1035506
+2024-04-21 07:00:00,Football,39,Match Finished,Aston Villa,Bournemouth,3,1,1035504
+2024-04-21 08:30:00,Football,39,Match Finished,Fulham,Liverpool,1,3,1035508
+2024-04-23 12:00:00,Football,39,Match Finished,Arsenal,Chelsea,5,0,1035454
+2024-04-24 11:45:00,Football,39,Match Finished,Wolves,Bournemouth,0,1,1035463
+2024-04-24 12:00:00,Football,39,Match Finished,Manchester United,Sheffield Utd,4,2,1035461
+2024-04-24 12:00:00,Football,39,Match Finished,Everton,Liverpool,2,0,1035458
+2024-04-24 12:00:00,Football,39,Match Finished,Crystal Palace,Newcastle,2,0,1035457
+2024-04-25 12:00:00,Football,39,Match Finished,Brighton,Manchester City,0,4,1035455
+2024-04-27 04:30:00,Football,39,Match Finished,West Ham,Liverpool,2,2,1035522
+2024-04-27 07:00:00,Football,39,Match Finished,Manchester United,Burnley,1,1,1035518
+2024-04-27 07:00:00,Football,39,Match Finished,Newcastle,Sheffield Utd,5,1,1035519
+2024-04-27 07:00:00,Football,39,Match Finished,Fulham,Crystal Palace,1,1,1035517
+2024-04-27 07:00:00,Football,39,Match Finished,Wolves,Luton,2,1,1035523
+2024-04-27 09:30:00,Football,39,Match Finished,Everton,Brentford,1,0,1035516
+2024-04-27 12:00:00,Football,39,Match Finished,Aston Villa,Chelsea,2,2,1035515
+2024-04-28 06:00:00,Football,39,Match Finished,Bournemouth,Brighton,3,0,1035514
+2024-04-28 06:00:00,Football,39,Match Finished,Tottenham,Arsenal,2,3,1035521
+2024-04-28 08:30:00,Football,39,Match Finished,Nottingham Forest,Manchester City,0,2,1035520
+2024-05-02 11:30:00,Football,39,Match Finished,Chelsea,Tottenham,2,0,1035428
+2024-05-03 12:00:00,Football,39,Match Finished,Luton,Everton,1,1,1035531
+2024-05-04 04:30:00,Football,39,Match Finished,Arsenal,Bournemouth,3,0,1035524
+2024-05-04 07:00:00,Football,39,Match Finished,Burnley,Newcastle,1,4,1035527
+2024-05-04 07:00:00,Football,39,Match Finished,Brentford,Fulham,0,0,1035525
+2024-05-04 07:00:00,Football,39,Match Finished,Sheffield Utd,Nottingham Forest,1,3,1035533
+2024-05-04 09:30:00,Football,39,Match Finished,Manchester City,Wolves,5,1,1035532
+2024-05-05 06:00:00,Football,39,Match Finished,Chelsea,West Ham,5,0,1035528
+2024-05-05 06:00:00,Football,39,Match Finished,Brighton,Aston Villa,1,0,1035526
+2024-05-05 08:30:00,Football,39,Match Finished,Liverpool,Tottenham,4,2,1035530
+2024-05-06 12:00:00,Football,39,Match Finished,Crystal Palace,Manchester United,4,0,1035529
+2024-05-11 04:30:00,Football,39,Match Finished,Fulham,Manchester City,0,4,1035537
+2024-05-11 07:00:00,Football,39,Match Finished,Newcastle,Brighton,1,1,1035539
+2024-05-11 07:00:00,Football,39,Match Finished,Bournemouth,Brentford,1,2,1035534
+2024-05-11 07:00:00,Football,39,Match Finished,Wolves,Crystal Palace,1,3,1035543
+2024-05-11 07:00:00,Football,39,Match Finished,Everton,Sheffield Utd,1,0,1035536
+2024-05-11 07:00:00,Football,39,Match Finished,Tottenham,Burnley,2,1,1035541
+2024-05-11 07:00:00,Football,39,Match Finished,West Ham,Luton,3,1,1035542
+2024-05-11 09:30:00,Football,39,Match Finished,Nottingham Forest,Chelsea,2,3,1035540
+2024-05-12 08:30:00,Football,39,Match Finished,Manchester United,Arsenal,0,1,1035538
+2024-05-13 12:00:00,Football,39,Match Finished,Aston Villa,Liverpool,3,3,1035535
+2024-05-14 12:00:00,Football,39,Match Finished,Tottenham,Manchester City,0,2,1035512
+2024-05-15 11:45:00,Football,39,Match Finished,Brighton,Chelsea,1,2,1035505
+2024-05-15 12:00:00,Football,39,Match Finished,Manchester United,Newcastle,3,2,1035510
+2024-05-19 08:00:00,Football,39,Match Finished,Liverpool,Wolves,2,0,1035550
+2024-05-19 08:00:00,Football,39,Match Finished,Arsenal,Everton,2,1,1035544
+2024-05-19 08:00:00,Football,39,Match Finished,Burnley,Nottingham Forest,1,2,1035547
+2024-05-19 08:00:00,Football,39,Match Finished,Chelsea,Bournemouth,2,1,1035548
+2024-05-19 08:00:00,Football,39,Match Finished,Manchester City,West Ham,3,1,1035552
+2024-05-19 08:00:00,Football,39,Match Finished,Brighton,Manchester United,0,2,1035546
+2024-05-19 08:00:00,Football,39,Match Finished,Crystal Palace,Aston Villa,5,0,1035549
+2024-05-19 08:00:00,Football,39,Match Finished,Brentford,Newcastle,2,4,1035545
+2024-05-19 08:00:00,Football,39,Match Finished,Sheffield Utd,Tottenham,0,3,1035553
+2024-05-19 08:00:00,Football,39,Match Finished,Luton,Fulham,2,4,1035551

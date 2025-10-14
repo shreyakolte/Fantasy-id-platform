@@ -1,0 +1,139 @@
+Game_Date,Sport,League_ID,Game_Status,Home_Team,Away_Team,Home_Score_Final,Away_Score_Final,Game_ID
+2023-09-02 16:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,Feldkirch W,,,150648
+2023-09-02 17:00:00,Handball,1,Finished,Stockerau W,Fuchse W,,,150651
+2023-09-02 17:00:00,Handball,1,Finished,Graz W,Atzgersdorf W,,,150653
+2023-09-03 16:00:00,Handball,1,Finished,Hypo NO W,Tulln W,,,150649
+2023-09-03 16:00:00,Handball,1,Finished,MGA Handball W,roomz JAGS WV W,,,150650
+2023-09-03 16:00:00,Handball,1,Finished,St. Polten W,Korneuburg W,,,150652
+2023-09-09 17:00:00,Handball,1,Finished,Feldkirch W,roomz JAGS WV W,,,150655
+2023-09-09 17:00:00,Handball,1,Finished,Fuchse W,Ferlach/Feldkirchen W,,,150656
+2023-09-09 17:00:00,Handball,1,Finished,Korneuburg W,Graz W,,,150657
+2023-09-09 17:00:00,Handball,1,Finished,MGA Handball W,St. Polten W,,,150658
+2023-09-10 13:00:00,Handball,1,Finished,Atzgersdorf W,Hypo NO W,,,150654
+2023-09-10 16:00:00,Handball,1,Finished,Tulln W,Stockerau W,,,150659
+2023-09-13 17:30:00,Handball,1,Finished,Hypo NO W,MGA Handball W,,,150669
+2023-09-16 16:00:00,Handball,1,Finished,Hypo NO W,Korneuburg W,,,150660
+2023-09-16 16:00:00,Handball,1,Finished,St. Polten W,roomz JAGS WV W,,,150661
+2023-09-16 16:00:00,Handball,1,Finished,Feldkirch W,Fuchse W,,,150665
+2023-09-16 17:00:00,Handball,1,Finished,Stockerau W,Atzgersdorf W,,,150662
+2023-09-16 17:00:00,Handball,1,Finished,Graz W,MGA Handball W,,,150663
+2023-09-16 17:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,Tulln W,,,150664
+2023-09-23 16:00:00,Handball,1,Finished,St. Polten W,Graz W,,,150667
+2023-09-23 17:00:00,Handball,1,Finished,roomz JAGS WV W,Fuchse W,,,150666
+2023-09-23 17:00:00,Handball,1,Finished,Tulln W,Feldkirch W,,,150668
+2023-09-23 17:30:00,Handball,1,Finished,Korneuburg W,Stockerau W,,,150670
+2023-09-27 17:30:00,Handball,1,Finished,Hypo NO W,St. Polten W,,,150676
+2023-09-30 17:00:00,Handball,1,Finished,Graz W,roomz JAGS WV W,,,150675
+2023-10-01 16:00:00,Handball,1,Finished,Fuchse W,Tulln W,,,150674
+2023-10-07 17:00:00,Handball,1,Finished,Atzgersdorf W,Ferlach/Feldkirchen W,,,150671
+2023-10-11 18:00:00,Handball,1,Finished,Stockerau W,MGA Handball W,,,150677
+2023-10-14 17:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,Korneuburg W,,,150673
+2023-10-21 14:00:00,Handball,1,Finished,roomz JAGS WV W,Tulln W,,,150680
+2023-10-21 16:00:00,Handball,1,Finished,Hypo NO W,Graz W,,,150682
+2023-10-21 17:00:00,Handball,1,Finished,Korneuburg W,Feldkirch W,,,150681
+2023-10-22 13:00:00,Handball,1,Finished,Atzgersdorf W,Fuchse W,,,150683
+2023-10-22 16:00:00,Handball,1,Finished,MGA Handball W,Ferlach/Feldkirchen W,,,150678
+2023-10-22 16:00:00,Handball,1,Finished,St. Polten W,Stockerau W,,,150679
+2023-10-28 13:15:00,Handball,1,Finished,Fuchse W,Korneuburg W,,,150687
+2023-10-28 16:00:00,Handball,1,Finished,Hypo NO W,roomz JAGS WV W,,,150684
+2023-10-28 17:00:00,Handball,1,Finished,Stockerau W,Graz W,,,150685
+2023-10-28 17:00:00,Handball,1,Finished,Tulln W,Atzgersdorf W,,,150686
+2023-10-28 17:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,St. Polten W,,,150688
+2023-10-28 17:00:00,Handball,1,Finished,Feldkirch W,MGA Handball W,,,150689
+2023-11-04 16:00:00,Handball,1,Finished,Hypo NO W,Stockerau W,,,150692
+2023-11-04 17:00:00,Handball,1,Finished,St. Polten W,Feldkirch W,,,150695
+2023-11-04 18:00:00,Handball,1,Finished,Graz W,Ferlach/Feldkirchen W,,,150691
+2023-11-04 18:00:00,Handball,1,Finished,Korneuburg W,Tulln W,,,150693
+2023-11-04 18:00:00,Handball,1,Finished,MGA Handball W,Fuchse W,,,150694
+2023-11-05 11:00:00,Handball,1,Finished,Hypo NO W,Feldkirch W,,,150709
+2023-11-05 17:00:00,Handball,1,Finished,Atzgersdorf W,roomz JAGS WV W,,,150690
+2023-11-18 17:00:00,Handball,1,Finished,Feldkirch W,Graz W,,,150700
+2023-11-18 17:00:00,Handball,1,Finished,Atzgersdorf W,Korneuburg W,,,150701
+2023-11-18 18:00:00,Handball,1,Finished,Tulln W,MGA Handball W,,,150697
+2023-11-18 18:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,Hypo NO W,,,150698
+2023-11-18 18:00:00,Handball,1,Finished,Fuchse W,St. Polten W,,,150699
+2023-11-19 15:00:00,Handball,1,Finished,roomz JAGS WV W,Stockerau W,,,150696
+2023-11-25 15:00:00,Handball,1,Finished,roomz JAGS WV W,Korneuburg W,,,150711
+2023-12-10 14:00:00,Handball,1,Finished,Stockerau W,Ferlach/Feldkirchen W,,,150712
+2023-12-16 17:00:00,Handball,1,Finished,Feldkirch W,Stockerau W,,,150706
+2023-12-16 18:00:00,Handball,1,Finished,Tulln W,Graz W,,,150704
+2023-12-16 18:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,roomz JAGS WV W,,,150705
+2023-12-17 14:00:00,Handball,1,Finished,Atzgersdorf W,St. Polten W,,,150707
+2023-12-17 17:00:00,Handball,1,Finished,Korneuburg W,MGA Handball W,,,150703
+2023-12-20 19:00:00,Handball,1,Finished,MGA Handball W,Atzgersdorf W,,,150710
+2023-12-20 19:00:00,Handball,1,Finished,St. Polten W,Tulln W,,,150713
+2023-12-21 18:30:00,Handball,1,Finished,Graz W,Fuchse W,,,150708
+2024-01-13 17:00:00,Handball,1,Finished,Atzgersdorf W,Graz W,,,150716
+2024-01-13 18:00:00,Handball,1,Finished,roomz JAGS WV W,MGA Handball W,,,150714
+2024-01-13 18:00:00,Handball,1,Finished,Tulln W,Hypo NO W,,,150715
+2024-01-13 18:00:00,Handball,1,Finished,Korneuburg W,St. Polten W,,,150717
+2024-01-13 18:00:00,Handball,1,Finished,Fuchse W,Stockerau W,,,150718
+2024-01-13 18:00:00,Handball,1,Finished,Feldkirch W,Ferlach/Feldkirchen W,,,150719
+2024-01-20 17:00:00,Handball,1,Finished,Hypo NO W,Atzgersdorf W,,,150721
+2024-01-20 17:00:00,Handball,1,Finished,roomz JAGS WV W,Feldkirch W,,,150722
+2024-01-20 18:00:00,Handball,1,Finished,Graz W,Korneuburg W,,,150720
+2024-01-20 18:00:00,Handball,1,Finished,Stockerau W,Tulln W,,,150723
+2024-01-20 18:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,Fuchse W,,,150725
+2024-01-21 19:00:00,Handball,1,Finished,St. Polten W,MGA Handball W,,,150724
+2024-01-27 18:00:00,Handball,1,Finished,MGA Handball W,Graz W,,,150726
+2024-01-27 18:00:00,Handball,1,Finished,roomz JAGS WV W,St. Polten W,,,150727
+2024-01-27 18:00:00,Handball,1,Finished,Tulln W,Ferlach/Feldkirchen W,,,150728
+2024-01-27 18:00:00,Handball,1,Finished,Korneuburg W,Hypo NO W,,,150729
+2024-01-27 18:00:00,Handball,1,Finished,Fuchse W,Feldkirch W,,,150730
+2024-01-28 14:00:00,Handball,1,Finished,Atzgersdorf W,Stockerau W,,,150731
+2024-02-02 18:00:00,Handball,1,Finished,Stockerau W,Korneuburg W,,,150734
+2024-02-03 17:00:00,Handball,1,Finished,Feldkirch W,Tulln W,,,150737
+2024-02-03 18:00:00,Handball,1,Finished,Fuchse W,roomz JAGS WV W,,,150735
+2024-02-04 17:00:00,Handball,1,Finished,Graz W,St. Polten W,,,150732
+2024-02-04 17:00:00,Handball,1,Finished,MGA Handball W,Hypo NO W,,,150733
+2024-02-04 17:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,Atzgersdorf W,,,150736
+2024-02-10 14:00:00,Handball,1,Finished,Atzgersdorf W,Feldkirch W,,,150738
+2024-02-10 17:00:00,Handball,1,Finished,roomz JAGS WV W,Graz W,,,150741
+2024-02-10 18:00:00,Handball,1,Finished,Tulln W,Fuchse W,,,150743
+2024-02-11 16:00:00,Handball,1,Finished,Korneuburg W,Ferlach/Feldkirchen W,,,150739
+2024-02-11 17:00:00,Handball,1,Finished,MGA Handball W,Stockerau W,,,150740
+2024-02-11 17:00:00,Handball,1,Finished,St. Polten W,Hypo NO W,,,150742
+2024-02-21 18:30:00,Handball,1,Finished,Fuchse W,Hypo NO W,,,150702
+2024-02-24 18:00:00,Handball,1,Finished,Graz W,Hypo NO W,,,150744
+2024-02-24 18:00:00,Handball,1,Finished,Tulln W,roomz JAGS WV W,,,150745
+2024-02-24 18:00:00,Handball,1,Finished,Stockerau W,St. Polten W,,,150746
+2024-02-24 18:00:00,Handball,1,Finished,Fuchse W,Atzgersdorf W,,,150747
+2024-02-24 18:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,MGA Handball W,,,150748
+2024-02-24 18:00:00,Handball,1,Finished,Feldkirch W,Korneuburg W,,,150749
+2024-03-09 15:00:00,Handball,1,Finished,Atzgersdorf W,Tulln W,,,150750
+2024-03-09 17:00:00,Handball,1,Finished,St. Polten W,Ferlach/Feldkirchen W,,,150755
+2024-03-09 18:00:00,Handball,1,Finished,Graz W,Stockerau W,,,150751
+2024-03-09 18:00:00,Handball,1,Finished,MGA Handball W,Feldkirch W,,,150753
+2024-03-09 18:00:00,Handball,1,Finished,roomz JAGS WV W,Hypo NO W,,,150754
+2024-03-10 17:00:00,Handball,1,Finished,Korneuburg W,Fuchse W,,,150752
+2024-03-16 17:00:00,Handball,1,Finished,Feldkirch W,St. Polten W,,,150756
+2024-03-16 18:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,Graz W,,,150757
+2024-03-16 18:00:00,Handball,1,Finished,Fuchse W,MGA Handball W,,,150758
+2024-03-16 18:00:00,Handball,1,Finished,roomz JAGS WV W,Atzgersdorf W,,,150759
+2024-03-16 18:00:00,Handball,1,Finished,Stockerau W,Hypo NO W,,,150760
+2024-03-17 17:00:00,Handball,1,Finished,Tulln W,Korneuburg W,,,150761
+2024-03-23 16:00:00,Handball,1,Finished,MGA Handball W,Tulln W,,,150765
+2024-03-23 17:00:00,Handball,1,Finished,St. Polten W,Fuchse W,,,150763
+2024-03-23 18:00:00,Handball,1,Finished,Stockerau W,roomz JAGS WV W,,,150762
+2024-03-23 18:00:00,Handball,1,Finished,Korneuburg W,Atzgersdorf W,,,150766
+2024-03-23 18:00:00,Handball,1,Finished,Graz W,Feldkirch W,,,150767
+2024-03-23 19:20:00,Handball,1,Finished,Hypo NO W,Ferlach/Feldkirchen W,,,150764
+2024-04-13 16:00:00,Handball,1,Finished,Feldkirch W,Atzgersdorf W,,,150672
+2024-04-27 17:00:00,Handball,1,Finished,Atzgersdorf W,MGA Handball W,,,150768
+2024-04-27 17:00:00,Handball,1,Finished,Feldkirch W,Hypo NO W,,,150769
+2024-04-27 17:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,Stockerau W,,,150770
+2024-04-27 17:00:00,Handball,1,Finished,Korneuburg W,roomz JAGS WV W,,,150772
+2024-04-27 17:00:00,Handball,1,Finished,Tulln W,St. Polten W,,,150773
+2024-04-28 12:45:00,Handball,1,Finished,Fuchse W,Graz W,,,150771
+2024-05-04 15:00:00,Handball,1,Finished,St. Polten W,Atzgersdorf W,,,150779
+2024-05-04 17:00:00,Handball,1,Finished,Graz W,Tulln W,,,150774
+2024-05-04 17:00:00,Handball,1,Finished,Hypo NO W,Fuchse W,,,150775
+2024-05-04 17:00:00,Handball,1,Finished,MGA Handball W,Korneuburg W,,,150776
+2024-05-04 17:00:00,Handball,1,Finished,roomz JAGS WV W,Ferlach/Feldkirchen W,,,150777
+2024-05-04 17:00:00,Handball,1,Finished,Stockerau W,Feldkirch W,,,150778
+2024-05-08 16:00:00,Handball,1,Finished,Stockerau W,Hypo NO W,,,160022
+2024-05-08 18:20:00,Handball,1,Finished,Atzgersdorf W,Ferlach/Feldkirchen W,,,160023
+2024-05-11 18:20:00,Handball,1,Finished,Hypo NO W,Stockerau W,,,160024
+2024-05-12 16:00:00,Handball,1,Finished,Ferlach/Feldkirchen W,Atzgersdorf W,,,160025
+2024-05-19 18:20:00,Handball,1,Finished,Hypo NO W,Atzgersdorf W,,,160160
+2024-05-24 18:20:00,Handball,1,Finished,Atzgersdorf W,Hypo NO W,,,160161

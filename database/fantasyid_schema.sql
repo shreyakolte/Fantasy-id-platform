@@ -3,7 +3,7 @@ CREATE DATABASE fantasyid;
 USE fantasyid;
 
 -- Table: sports (stores list of sports)
-CREATE TABLE sports (
+CREATE TABLE sports ( 
   sport_id INT AUTO_INCREMENT PRIMARY KEY,    -- unique ID for each sport
   name VARCHAR(64) NOT NULL UNIQUE            -- sport name (Basketball, Football, etc.)
 );
@@ -104,4 +104,15 @@ CREATE TABLE payments (
 );
 
 SHOW TABLES;
+DELETE FROM sports WHERE name = 'Basketball';
 
+-- For Handball
+INSERT INTO sports (name) VALUES ('Handball');
+
+-- For Baseball
+INSERT INTO sports (name) VALUES ('Baseball');
+
+-- for american football
+INSERT INTO sports (name) VALUES ('American Football');
+
+SELECT * FROM sports;

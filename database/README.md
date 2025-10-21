@@ -178,4 +178,3 @@ Queries are grouped by screen or feature.
 2. (Optional) Add seed data manually or via API loader.  
 3. Use `fantasyid_queries.sql` for backend integration — each endpoint corresponds to a UI feature.  
 4. When new features are added to the UI, extend the schema and queries accordingly.
-5. 

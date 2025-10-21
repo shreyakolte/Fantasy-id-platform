@@ -116,3 +116,100 @@ INSERT INTO sports (name) VALUES ('Baseball');
 INSERT INTO sports (name) VALUES ('American Football');
 
 SELECT * FROM sports;
+
+-- Players in any league/team
+CREATE TABLE players (
+  player_id INT AUTO_INCREMENT PRIMARY KEY,
+  league_id INT NOT NULL,
+  team_id INT NOT NULL,
+  name VARCHAR(128) NOT NULL,
+  position VARCHAR(32),
+  provider_player_id VARCHAR(128),
+  FOREIGN KEY (league_id) REFERENCES leagues(league_id),
+  FOREIGN KEY (team_id)   REFERENCES teams(team_id),
+  UNIQUE KEY uniq_player_provider (provider_player_id)
+);
+
+-- Stats per player per game (keep it generic with JSON)
+CREATE TABLE player_stats (
+  player_stat_id INT AUTO_INCREMENT PRIMARY KEY,
+  game_id INT NOT NULL,
+  player_id INT NOT NULL,
+  -- store API payload (works for any sport)
+  stats_json JSON,
+  -- optional common fields you can sort by (nullable, use what applies per sport)
+  points INT NULL,        -- basketball/handball
+  yards INT NULL,         -- football/baseball (generic “yards”)
+  touchdowns INT NULL,
+  assists INT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY (game_id) REFERENCES games(game_id),
+  FOREIGN KEY (player_id) REFERENCES players(player_id),
+  UNIQUE KEY uniq_player_game (player_id, game_id)
+);
+
+CREATE TABLE notifications (
+  notification_id INT AUTO_INCREMENT PRIMARY KEY,
+  user_id INT NOT NULL,
+  title VARCHAR(160) NOT NULL,
+  body VARCHAR(500),
+  type VARCHAR(32),                  -- live | upcoming | final | league_update | payment | etc.
+  is_read TINYINT(1) DEFAULT 0,
+  related_game_id INT NULL,          -- optional deep link
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY (user_id) REFERENCES users(user_id),
+  FOREIGN KEY (related_game_id) REFERENCES games(game_id)
+);
+
+CREATE TABLE user_follows (
+  follow_id INT AUTO_INCREMENT PRIMARY KEY,
+  user_id INT NOT NULL,
+  team_id INT NULL,
+  player_id INT NULL,
+  league_id INT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+  -- Exactly one target type must be chosen
+  CHECK (
+    (team_id IS NOT NULL) + (player_id IS NOT NULL) + (league_id IS NOT NULL) = 1
+  ),
+
+  FOREIGN KEY (user_id)  REFERENCES users(user_id),
+  FOREIGN KEY (team_id)  REFERENCES teams(team_id),
+  FOREIGN KEY (player_id) REFERENCES players(player_id),
+  FOREIGN KEY (league_id) REFERENCES leagues(league_id),
+
+  -- Prevent duplicates per user/target
+  UNIQUE KEY uniq_user_team   (user_id, team_id),
+  UNIQUE KEY uniq_user_player (user_id, player_id),
+  UNIQUE KEY uniq_user_league (user_id, league_id)
+);
+
+CREATE TABLE wallets (
+  user_id INT PRIMARY KEY,
+  balance DECIMAL(12,2) NOT NULL DEFAULT 0,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  FOREIGN KEY (user_id) REFERENCES users(user_id)
+);
+
+CREATE TABLE wallet_transactions (
+  tx_id INT AUTO_INCREMENT PRIMARY KEY,
+  user_id INT NOT NULL,
+  amount DECIMAL(12,2) NOT NULL,     -- + credit, - debit
+  tx_type VARCHAR(32),               -- deposit | withdraw | prize | fee | refund
+  reference VARCHAR(128),            -- payment_id or game_id etc.
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY (user_id) REFERENCES users(user_id),
+  INDEX idx_wallet_user_time (user_id, created_at)
+);
+
+-- Sports list (for filter)
+SELECT sport_id, name FROM sports ORDER BY name;
+
+-- Leagues for a sport
+SELECT league_id, name FROM leagues WHERE sport_id = ? ORDER BY name;
+
+-- Seasons for a league
+SELECT season_id, year FROM seasons WHERE league_id = ? ORDER BY year DESC;
+
+show tables;
